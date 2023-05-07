@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyXe", "QuanLyXe\QuanLyXe.csproj", "{0F843013-8D0C-4000-B081-FE61A82CC75E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{4F80C27E-2345-4D7B-80FD-7B27E87059BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F843013-8D0C-4000-B081-FE61A82CC75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F843013-8D0C-4000-B081-FE61A82CC75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F843013-8D0C-4000-B081-FE61A82CC75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F843013-8D0C-4000-B081-FE61A82CC75E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F80C27E-2345-4D7B-80FD-7B27E87059BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F80C27E-2345-4D7B-80FD-7B27E87059BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F80C27E-2345-4D7B-80FD-7B27E87059BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F80C27E-2345-4D7B-80FD-7B27E87059BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C84C5F9-9FE7-4686-94D5-049184C32FE4}
+	EndGlobalSection
+EndGlobal
